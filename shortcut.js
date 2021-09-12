@@ -41,7 +41,7 @@ const numStr = num1 + '';
 // string to number
 const input = '560';
 const inputNum = +input;
-// console.log(inputNum);
+// console.log(inputNum); 
 
 // 
 let isActive = true;
